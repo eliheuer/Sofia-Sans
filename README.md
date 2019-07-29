@@ -1,2 +1,2 @@
 # Sofia Sans
-![basic proof](https://github.com/eliheuer/Sofia-Sans/blob/build-script/documentation/drawbot/basic-proof.png?raw=true)
+![basic proof](https://github.com/lettersoup/Sofia-Sans/blob/master/documentation/drawbot/basic-proof.png?raw=true)
